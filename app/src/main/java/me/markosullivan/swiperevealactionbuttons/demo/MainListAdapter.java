@@ -1,4 +1,4 @@
-package me.markosullivan.swiperevealactionbuttons;
+package me.markosullivan.swiperevealactionbuttons.demo;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -9,6 +9,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.List;
+
+import me.markosullivan.swiperevealactionbuttons.demo.R;
 
 /**
  * Created by Mark O'Sullivan on 25th February 2018.
